@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7788821f-2dd8-4c38-8761-6aff6543c739" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/apollo/components/Article.vue" beforeDir="false" afterPath="$PROJECT_DIR$/apollo/components/Article.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apollo/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/apollo/nuxt.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apollo/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apollo/pages/character/_id.vue" beforeDir="false" afterPath="$PROJECT_DIR$/apollo/pages/annonce/_id.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apollo/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/apollo/pages/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,10 +14,12 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/apollo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="20pAbLb5UUWs7TIndgUcj5mUMYB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,8 +31,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="eu.ydp.idea.ts.spec.generator.settings.spec.template" value="import {$ClassName$} from '$TestsRelativePath$../src/$classRelativePath$/$ClassName$';&#10;&#10;describe('$ClassName$', () =&gt; {&#10;  let $ObjName$:$ClassName$;&#10;&#10;  beforeEach(() =&gt; {&#10;    $ObjName$ = new $ClassName$();&#10;  });&#10;&#10;  describe('', () =&gt; {&#10;    it('', () =&gt; {&#10;      // given&#10;&#10;      // when&#10;&#10;      // then&#10;    });&#10;  });&#10;});&#10;" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/apollo/static" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
     <property name="vuejs.nuxt.types-notification-shown" value="true" />
   </component>
@@ -62,7 +63,10 @@
       <workItem from="1637056904742" duration="4607000" />
       <workItem from="1637078581895" duration="7783000" />
       <workItem from="1637158947006" duration="1297000" />
-      <workItem from="1637163935316" duration="19315000" />
+      <workItem from="1637163935316" duration="20859000" />
+      <workItem from="1637331030432" duration="11000" />
+      <workItem from="1637331057371" duration="12000" />
+      <workItem from="1637331093125" duration="180000" />
     </task>
     <servers />
   </component>
@@ -80,5 +84,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/app" />
+      <path value="$PROJECT_DIR$/apollo" />
+    </ignored-roots>
   </component>
 </project>
