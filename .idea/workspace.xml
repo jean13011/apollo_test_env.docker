@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7788821f-2dd8-4c38-8761-6aff6543c739" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/apollo/components/Article.vue" beforeDir="false" afterPath="$PROJECT_DIR$/apollo/components/Article.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apollo/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/apollo/nuxt.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apollo/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apollo/pages/character/_id.vue" beforeDir="false" afterPath="$PROJECT_DIR$/apollo/pages/annonce/_id.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apollo/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/apollo/pages/index.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/apollo" />
+  </component>
+  <component name="ProjectId" id="20pAbLb5UUWs7TIndgUcj5mUMYB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/apollo/static" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="vuejs.nuxt.types-notification-shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jean.cippelletti\Desktop\utilitaire_dev\perso\test-apollo\apollo\static" />
+      <recent name="C:\Users\jean.cippelletti\Desktop\utilitaire_dev\perso\test-apollo" />
+      <recent name="C:\Users\jean.cippelletti\Desktop\utilitaire_dev\perso\test-apollo\dockerfiles\node" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jean.cippelletti\Desktop\utilitaire_dev\perso\test-apollo\dockerfiles\node" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7788821f-2dd8-4c38-8761-6aff6543c739" name="Changes" comment="" />
+      <created>1636731229184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636731229184</updated>
+      <workItem from="1636731235427" duration="1677000" />
+      <workItem from="1636982446049" duration="617000" />
+      <workItem from="1636983176291" duration="5994000" />
+      <workItem from="1636991746743" duration="8412000" />
+      <workItem from="1637056904742" duration="4607000" />
+      <workItem from="1637078581895" duration="7783000" />
+      <workItem from="1637158947006" duration="1297000" />
+      <workItem from="1637163935316" duration="19315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
